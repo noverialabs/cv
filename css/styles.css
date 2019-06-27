@@ -1,0 +1,33 @@
+body {
+    background-color: #e8e8e8;
+    color: #00334e;
+    font-family: 'Open Sans', sans-serif;  
+}
+
+h1 {
+    color: #145374;
+    font-family: 'Merriweather', serif;
+}
+
+h2 {
+    color: #5588a3;
+    font-family: 'Merriweather', serif;
+}
+
+
+hr {
+    border-style: dashed none none;
+    border-width: 2px;
+    color: #145374;
+}
+
+a {
+    color: #5588a3;
+}
+
+table {
+    color: #145374;
+    font-family: 'Merriweather', serif;
+}
+
+/* TAG SELECTORS */
